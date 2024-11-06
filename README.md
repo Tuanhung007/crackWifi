@@ -9,4 +9,4 @@ Crack wps wifi
 
 # Chạy:
 
--sudo python hung.py -i wlan0 -K
+- sudo python hung.py -i wlan0 -K
